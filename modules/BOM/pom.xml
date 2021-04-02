@@ -18,8 +18,8 @@
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>net.upperlimit</groupId>
-				<artifactId>tools.springframework</artifactId>
+				<groupId>com.myorganization.mybusiness</groupId>
+				<artifactId>mytools.springframework</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 		</dependencies>
